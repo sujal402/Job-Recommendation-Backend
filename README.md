@@ -19,13 +19,11 @@ This is a Node.js-based RESTful API that recommends relevant job postings to use
 ### Prerequisites
 
 Ensure that you have the following installed on your system:
-- **Node.js** (v14.x or higher)
-- **MongoDB** (local or cloud instance)
-- **Postman** or **cURL** (for API testing)
+- **Node.js** , **MongoDB** , **Postman** or **cURL**
 
 ### Installation
 
-1. **Clone the repository:**
+ **Clone the repo:**
 
    ```bash
    git clone https://github.com/yourusername/job-recommendation-api.git
@@ -34,8 +32,6 @@ Ensure that you have the following installed on your system:
    
    npm start
    ```
-
-   By default, the server will run on port 5000. You should see `Server is running on port 5000` in the terminal.
 
 ### API Endpoints
 
